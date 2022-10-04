@@ -36,5 +36,8 @@
     "universal-cookie": "^4.0.4",
     "validator": "^13.7.0",
     "xss-clean": "^0.1.1"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
